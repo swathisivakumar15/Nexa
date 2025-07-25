@@ -45,7 +45,7 @@ Traditional voice assistants often rely heavily on cloud services, compromising 
 | Component        | Stack / Tool                                 |
 |------------------|----------------------------------------------|
 | **Language**     | Python 3.8+                                  |
-| **STT**          | Whisper / Vosk / SpeechRecognition           |
+| **STT**          | Whisper / SpeechRecognition           |
 | **TTS**          | pyttsx3 / gTTS / ElevenLabs / Tacotron       |
 | **NLP/NLU**      | spaCy / Transformers / Rasa (optional)       |
 | **Wake Word**    | Porcupine / Precise / Custom model           |
